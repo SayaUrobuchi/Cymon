@@ -17,1486 +17,974 @@ MonoBehaviour:
   TempoLength: 4.5
   ClickPoints:
   - ClickType: 0
-    TimePoint: 1.6034591
-    Position: {x: 0.6481481, y: 0.6561845}
+    TimePoint: 1.7319083
+    Position: {x: 0.60818714, y: 0.7274633}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 1.9711198
-    Position: {x: 0.31384015, y: 0.7777778}
+    TimePoint: 2.3779118
+    Position: {x: 0.33723196, y: 0.7337526}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 2.3154902
-    Position: {x: 0.17348927, y: 0.524109}
+    TimePoint: 3.1234121
+    Position: {x: 0.18518518, y: 0.38784066}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 2.6387358
-    Position: {x: 0.15789473, y: 0.29979035}
+    TimePoint: 3.968311
+    Position: {x: 0.4668616, y: 0.25786164}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 3.0804818
-    Position: {x: 0.60331386, y: 0.39832285}
+    TimePoint: 4.6144094
+    Position: {x: 0.6793372, y: 0.5828092}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 4.5246124
-    Position: {x: 0.32748538, y: 0.7526205}
+    TimePoint: 4.9291763
+    Position: {x: 0.64327484, y: 0.7023061}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 4.81651
-    Position: {x: 0.14035088, y: 0.7400419}
+    TimePoint: 5.5918417
+    Position: {x: 0.4269006, y: 0.8658281}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 5.1626663
-    Position: {x: 0.15204678, y: 0.38155136}
+    TimePoint: 6.0391417
+    Position: {x: 0.21539961, y: 0.7819706}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 5.4739985
-    Position: {x: 0.3840156, y: 0.40461215}
+    TimePoint: 6.7018085
+    Position: {x: 0.19980507, y: 0.39413}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 5.9745793
-    Position: {x: 0.62475634, y: 0.8218029}
+    TimePoint: 7.414176
+    Position: {x: 0.69005847, y: 0.24528302}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 6.333437
-    Position: {x: 0.8352826, y: 0.60587}
+    TimePoint: 8.027143
+    Position: {x: 0.6978558, y: 0.4989518}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 6.6767874
-    Position: {x: 0.78070176, y: 0.3899371}
+    TimePoint: 8.408178
+    Position: {x: 0.56042886, y: 0.7589099}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 7.021222
-    Position: {x: 0.5536062, y: 0.2851153}
+    TimePoint: 8.872049
+    Position: {x: 0.26218325, y: 0.9203354}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 7.412465
-    Position: {x: 0.00877193, y: 0.4171908}
+    TimePoint: 9.584421
+    Position: {x: 0.16081871, y: 0.5639413}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 7.753972
-    Position: {x: 0.15594542, y: 0.8134172}
+    TimePoint: 10.213958
+    Position: {x: 0.23879142, y: 0.2725367}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 8.089419
-    Position: {x: 0.26413256, y: 0.9056604}
+    TimePoint: 10.843493
+    Position: {x: 0.7592593, y: 0.5974843}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 8.412306
-    Position: {x: 0.47076023, y: 0.9496855}
+    TimePoint: 11.207962
+    Position: {x: 0.6988304, y: 0.8218029}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 8.8004055
-    Position: {x: 0.6773879, y: 0.6436059}
+    TimePoint: 11.62213
+    Position: {x: 0.2962963, y: 0.9077568}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 9.181221
-    Position: {x: 0.7017544, y: 0.4360587}
+    TimePoint: 12.086002
+    Position: {x: 0.2300195, y: 0.6226415}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 9.537007
-    Position: {x: 0.5945419, y: 0.35849056}
+    TimePoint: 12.632704
+    Position: {x: 0.2534113, y: 0.3312369}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 9.865486
-    Position: {x: 0.45906433, y: 0.3417191}
+    TimePoint: 13.16284
+    Position: {x: 0.7319688, y: 0.6226415}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 10.252229
-    Position: {x: 0.37329435, y: 0.6918239}
+    TimePoint: 13.709544
+    Position: {x: 0.64132553, y: 0.8490566}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 10.596007
-    Position: {x: 0.32261208, y: 0.8448637}
+    TimePoint: 14.057446
+    Position: {x: 0.34990254, y: 0.870021}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 10.973903
-    Position: {x: 0.22124757, y: 0.6813417}
+    TimePoint: 14.488184
+    Position: {x: 0.14814815, y: 0.6939203}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 11.332369
-    Position: {x: 0.19395712, y: 0.45702305}
+    TimePoint: 15.002154
+    Position: {x: 0.14619882, y: 0.49056605}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 11.662488
-    Position: {x: 0.2582846, y: 0.20545073}
+    TimePoint: 15.631291
+    Position: {x: 0.30019492, y: 0.41090146}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 11.990463
-    Position: {x: 0.49707603, y: 0.30607966}
+    TimePoint: 16.260832
+    Position: {x: 0.41812867, y: 0.557652}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 12.353085
-    Position: {x: 0.6773879, y: 0.6163522}
+    TimePoint: 16.741272
+    Position: {x: 0.5633528, y: 0.7085954}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 12.689894
-    Position: {x: 0.6588694, y: 0.7589099}
+    TimePoint: 17.238283
+    Position: {x: 0.788499, y: 0.7568134}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 13.018448
-    Position: {x: 0.42495126, y: 0.7987421}
+    TimePoint: 17.702158
+    Position: {x: 0.8206628, y: 0.5408805}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 13.383973
-    Position: {x: 0.2563353, y: 0.7756813}
+    TimePoint: 18.14947
+    Position: {x: 0.71247566, y: 0.4947589}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 13.753807
-    Position: {x: 0.27387914, y: 0.44444445}
+    TimePoint: 18.845276
+    Position: {x: 0.47758284, y: 0.7295597}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 13.931088
-    Position: {x: 0.36452243, y: 0.29350105}
+    TimePoint: 19.474812
+    Position: {x: 0.26413256, y: 0.78826}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 14.146794
-    Position: {x: 0.5594542, y: 0.278826}
+    TimePoint: 20.104351
+    Position: {x: 0.17836258, y: 0.5765199}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 14.520476
-    Position: {x: 0.7748538, y: 0.591195}
+    TimePoint: 20.435692
+    Position: {x: 0.29922026, y: 0.36477986}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 14.822433
-    Position: {x: 0.73391813, y: 0.7568134}
+    TimePoint: 20.965834
+    Position: {x: 0.5165692, y: 0.6498952}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 15.1932535
-    Position: {x: 0.48050684, y: 0.8658281}
+    TimePoint: 21.363436
+    Position: {x: 0.61013645, y: 0.802935}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 15.541676
-    Position: {x: 0.30506822, y: 0.8616352}
+    TimePoint: 21.711338
+    Position: {x: 0.71734893, y: 0.884696}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 15.881472
-    Position: {x: 0.23391813, y: 0.5618449}
+    TimePoint: 22.059242
+    Position: {x: 0.7894737, y: 0.6855346}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 16.201937
-    Position: {x: 0.23684211, y: 0.35220125}
+    TimePoint: 22.423712
+    Position: {x: 0.78557503, y: 0.5660377}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 16.55219
-    Position: {x: 0.53801167, y: 0.3417191}
+    TimePoint: 23.036688
+    Position: {x: 0.7105263, y: 0.3542977}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 16.896418
-    Position: {x: 0.7202729, y: 0.4989518}
+    TimePoint: 23.7325
+    Position: {x: 0.32651073, y: 0.6184486}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 17.05244
-    Position: {x: 0.7319688, y: 0.572327}
+    TimePoint: 24.478004
+    Position: {x: 0.17836258, y: 0.8218029}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 17.409725
-    Position: {x: 0.7261208, y: 0.8490566}
+    TimePoint: 25.124615
+    Position: {x: 0.13060428, y: 0.5953878}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 17.734526
-    Position: {x: 0.57309943, y: 0.9098532}
+    TimePoint: 25.869627
+    Position: {x: 0.41520467, y: 0.35639414}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 18.052685
-    Position: {x: 0.22417153, y: 0.8679245}
+    TimePoint: 26.56544
+    Position: {x: 0.77875245, y: 0.7819706}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 18.430424
-    Position: {x: 0.12280702, y: 0.7672956}
+    TimePoint: 27.310957
+    Position: {x: 0.8265107, y: 0.591195}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 18.77176
-    Position: {x: 0.15692008, y: 0.49056605}
+    TimePoint: 28.07304
+    Position: {x: 0.7504873, y: 0.37945494}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 19.123423
-    Position: {x: 0.32358673, y: 0.46750525}
+    TimePoint: 28.768845
+    Position: {x: 0.30994153, y: 0.7295597}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 19.45827
-    Position: {x: 0.69590646, y: 0.524109}
+    TimePoint: 29.680029
+    Position: {x: 0.16471735, y: 0.5555556}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 19.66959
-    Position: {x: 0.7387914, y: 0.6142558}
+    TimePoint: 29.9451
+    Position: {x: 0.11500975, y: 0.37526205}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 19.91018
-    Position: {x: 0.8021442, y: 0.7924528}
+    TimePoint: 31.104788
+    Position: {x: 0.3869396, y: 0.2976939}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 20.270227
-    Position: {x: 0.9191033, y: 0.8113208}
+    TimePoint: 31.634926
+    Position: {x: 0.7183236, y: 0.6331237}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 20.565521
-    Position: {x: 0.87524366, y: 0.5178197}
+    TimePoint: 32.264473
+    Position: {x: 0.668616, y: 0.9371069}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 20.928066
-    Position: {x: 0.708577, y: 0.3731656}
+    TimePoint: 32.612385
+    Position: {x: 0.84015596, y: 0.8490566}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 21.227718
-    Position: {x: 0.3693957, y: 0.3375262}
+    TimePoint: 33.04313
+    Position: {x: 0.8557505, y: 0.5010482}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 21.602394
-    Position: {x: 0.18421052, y: 0.36268345}
+    TimePoint: 33.722385
+    Position: {x: 0.6335283, y: 0.4591195}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 21.925535
-    Position: {x: 0.16374269, y: 0.687631}
+    TimePoint: 33.970894
+    Position: {x: 0.5906433, y: 0.5765199}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 22.287102
-    Position: {x: 0.3908382, y: 0.8280922}
+    TimePoint: 34.202835
+    Position: {x: 0.5721248, y: 0.6855346}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 22.61194
-    Position: {x: 0.6159844, y: 0.8825996}
+    TimePoint: 34.78269
+    Position: {x: 0.5126706, y: 0.9161426}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 22.97889
-    Position: {x: 0.77680314, y: 0.8658281}
+    TimePoint: 35.528214
+    Position: {x: 0.2651072, y: 0.8972746}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 23.38024
-    Position: {x: 0.668616, y: 0.5849057}
+    TimePoint: 36.472546
+    Position: {x: 0.1871345, y: 0.6184486}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 23.770142
-    Position: {x: 0.5682261, y: 0.46121594}
+    TimePoint: 37.2015
+    Position: {x: 0.2651072, y: 0.4234801}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 24.079218
-    Position: {x: 0.42787525, y: 0.4129979}
+    TimePoint: 37.532845
+    Position: {x: 0.42300195, y: 0.32285115}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 24.287588
-    Position: {x: 0.42007798, y: 0.41090146}
+    TimePoint: 37.947025
+    Position: {x: 0.6481481, y: 0.7358491}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 24.44614
-    Position: {x: 0.41715398, y: 0.41090146}
+    TimePoint: 38.44404
+    Position: {x: 0.72709554, y: 0.9056604}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 24.84754
-    Position: {x: 0.22807017, y: 0.4025157}
+    TimePoint: 39.48777
+    Position: {x: 0.8333333, y: 0.6666667}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 25.067106
-    Position: {x: 0.19785576, y: 0.49056605}
+    TimePoint: 39.73628
+    Position: {x: 0.77095515, y: 0.5450734}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 25.383799
-    Position: {x: 0.19688109, y: 0.7232704}
+    TimePoint: 40.20016
+    Position: {x: 0.6744639, y: 0.36268345}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 25.597746
-    Position: {x: 0.3557505, y: 0.870021}
+    TimePoint: 40.79658
+    Position: {x: 0.30019492, y: 0.5157233}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 25.85286
-    Position: {x: 0.4668616, y: 0.9496855}
+    TimePoint: 41.359867
+    Position: {x: 0.1705653, y: 0.7421384}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 26.490149
-    Position: {x: 0.7017544, y: 0.9224319}
+    TimePoint: 41.774044
+    Position: {x: 0.17251462, y: 0.8616352}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 26.81845
-    Position: {x: 0.7923977, y: 0.7106918}
+    TimePoint: 42.171658
+    Position: {x: 0.30604288, y: 0.9433962}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 27.222952
-    Position: {x: 0.708577, y: 0.5031447}
+    TimePoint: 42.552704
+    Position: {x: 0.32261208, y: 0.7190776}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 27.552662
-    Position: {x: 0.6111111, y: 0.3899371}
+    TimePoint: 42.966885
+    Position: {x: 0.32358673, y: 0.49685535}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 27.94101
-    Position: {x: 0.38791424, y: 0.38574424}
+    TimePoint: 43.265095
+    Position: {x: 0.45808968, y: 0.4528302}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 28.293787
-    Position: {x: 0.21052632, y: 0.475891}
+    TimePoint: 44.093456
+    Position: {x: 0.7329435, y: 0.8071279}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 28.552538
-    Position: {x: 0.15497077, y: 0.46121594}
+    TimePoint: 44.8721
+    Position: {x: 0.794347, y: 0.6247379}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 28.768417
-    Position: {x: 0.121832356, y: 0.33333334}
+    TimePoint: 45.634186
+    Position: {x: 0.7319688, y: 0.39203355}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 29.11455
-    Position: {x: 0.26998052, y: 0.2494759}
+    TimePoint: 45.99866
+    Position: {x: 0.55847955, y: 0.38155136}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 29.409386
-    Position: {x: 0.41812867, y: 0.2683438}
+    TimePoint: 46.793884
+    Position: {x: 0.28070176, y: 0.7987421}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 29.696583
-    Position: {x: 0.5477583, y: 0.3731656}
+    TimePoint: 47.27433
+    Position: {x: 0.19688109, y: 0.6247379}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 29.899647
-    Position: {x: 0.6725146, y: 0.4779874}
+    TimePoint: 48.384323
+    Position: {x: 0.25925925, y: 0.4821803}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 30.160486
-    Position: {x: 0.8089669, y: 0.6205451}
+    TimePoint: 48.848206
+    Position: {x: 0.3508772, y: 0.36897275}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 30.50596
-    Position: {x: 0.85867447, y: 0.7085954}
+    TimePoint: 49.47776
+    Position: {x: 0.64132553, y: 0.7169811}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 30.817312
-    Position: {x: 0.86159843, y: 0.8259958}
+    TimePoint: 49.875374
+    Position: {x: 0.80409354, y: 0.5220126}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 31.115618
-    Position: {x: 0.6013645, y: 0.8574423}
+    TimePoint: 50.272984
+    Position: {x: 0.8460039, y: 0.8113208}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 31.28512
-    Position: {x: 0.5292398, y: 0.8553459}
+    TimePoint: 50.720295
+    Position: {x: 0.64522415, y: 0.8930818}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 31.566408
-    Position: {x: 0.36062378, y: 0.8553459}
+    TimePoint: 51.035072
+    Position: {x: 0.334308, y: 0.9014675}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 31.953537
-    Position: {x: 0.15692008, y: 0.8092243}
+    TimePoint: 51.432686
+    Position: {x: 0.2037037, y: 0.7798742}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 32.301376
-    Position: {x: 0.1159844, y: 0.6079665}
+    TimePoint: 51.74746
+    Position: {x: 0.18226121, y: 0.6016771}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 32.615604
-    Position: {x: 0.36159843, y: 0.5010482}
+    TimePoint: 52.16164
+    Position: {x: 0.21539961, y: 0.38574424}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 32.915054
-    Position: {x: 0.56530213, y: 0.5597484}
+    TimePoint: 52.542686
+    Position: {x: 0.29337233, y: 0.29350105}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 33.227215
-    Position: {x: 0.6744639, y: 0.8993711}
+    TimePoint: 52.758053
+    Position: {x: 0.3362573, y: 0.3018868}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 33.614883
-    Position: {x: 0.68421054, y: 0.6960168}
+    TimePoint: 53.238503
+    Position: {x: 0.47076023, y: 0.3501048}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 33.80194
-    Position: {x: 0.67836255, y: 0.5890985}
+    TimePoint: 53.80179
+    Position: {x: 0.6968811, y: 0.5534591}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 33.988052
-    Position: {x: 0.65789473, y: 0.4360587}
+    TimePoint: 54.33194
+    Position: {x: 0.794347, y: 0.7400419}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 34.16992
-    Position: {x: 0.64522415, y: 0.33333334}
+    TimePoint: 55.060898
+    Position: {x: 0.8021442, y: 0.8637317}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 34.39439
-    Position: {x: 0.625731, y: 0.23480085}
+    TimePoint: 55.707016
+    Position: {x: 0.7183236, y: 0.6750524}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 34.707123
-    Position: {x: 0.3294347, y: 0.25995806}
+    TimePoint: 56.386272
+    Position: {x: 0.6920078, y: 0.4486373}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 35.080692
-    Position: {x: 0.16764133, y: 0.5555556}
+    TimePoint: 56.717617
+    Position: {x: 0.5945419, y: 0.37945494}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 35.368046
-    Position: {x: 0.2534113, y: 0.754717}
+    TimePoint: 57.06553
+    Position: {x: 0.4814815, y: 0.3773585}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 35.722847
-    Position: {x: 0.40448344, y: 0.8532495}
+    TimePoint: 57.463142
+    Position: {x: 0.39473686, y: 0.6142558}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 36.097324
-    Position: {x: 0.5389863, y: 0.9098532}
+    TimePoint: 58.4903
+    Position: {x: 0.26705652, y: 0.8343816}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 36.44335
-    Position: {x: 0.6832359, y: 0.9056604}
+    TimePoint: 59.235813
+    Position: {x: 0.13450292, y: 0.8071279}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 36.771004
-    Position: {x: 0.7758285, y: 0.7484277}
+    TimePoint: 60.26298
+    Position: {x: 0.10331384, y: 0.4696017}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 37.021404
-    Position: {x: 0.7573099, y: 0.524109}
+    TimePoint: 61.406116
+    Position: {x: 0.39668617, y: 0.39832285}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 37.240303
-    Position: {x: 0.7329435, y: 0.4004193}
+    TimePoint: 62.76462
+    Position: {x: 0.6920078, y: 0.7148847}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 37.488293
-    Position: {x: 0.70467836, y: 0.27672955}
+    TimePoint: 64.23905
+    Position: {x: 0.7368421, y: 0.4360587}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 37.894382
-    Position: {x: 0.4074074, y: 0.28301886}
+    TimePoint: 64.90163
+    Position: {x: 0.6773879, y: 0.29350105}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 38.19197
-    Position: {x: 0.22222222, y: 0.2976939}
+    TimePoint: 65.23291
+    Position: {x: 0.5282651, y: 0.27672955}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 38.58391
-    Position: {x: 0.16959064, y: 0.49266246}
+    TimePoint: 65.69672
+    Position: {x: 0.294347, y: 0.44025156}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 38.896603
-    Position: {x: 0.36452243, y: 0.7127883}
+    TimePoint: 67.07157
+    Position: {x: 0.21637426, y: 0.6310273}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 39.239815
-    Position: {x: 0.5233918, y: 0.8092243}
+    TimePoint: 67.78386
+    Position: {x: 0.2982456, y: 0.7379455}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 39.56726
-    Position: {x: 0.57699805, y: 0.8637317}
+    TimePoint: 68.148285
+    Position: {x: 0.43664718, y: 0.7358491}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 39.956238
-    Position: {x: 0.38499025, y: 0.9119497}
+    TimePoint: 68.59552
+    Position: {x: 0.63060427, y: 0.7505241}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 40.34925
-    Position: {x: 0.28070176, y: 0.9266247}
+    TimePoint: 69.82131
+    Position: {x: 0.58576995, y: 0.5324948}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 40.725258
-    Position: {x: 0.1208577, y: 0.8406709}
+    TimePoint: 70.51703
+    Position: {x: 0.42105263, y: 0.4234801}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 41.09884
-    Position: {x: 0.13645224, y: 0.6750524}
+    TimePoint: 70.88143
+    Position: {x: 0.34307992, y: 0.3542977}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 41.458374
-    Position: {x: 0.1374269, y: 0.5786164}
+    TimePoint: 71.510864
+    Position: {x: 0.2534113, y: 0.3480084}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 41.758686
-    Position: {x: 0.17446394, y: 0.4192872}
+    TimePoint: 72.58756
+    Position: {x: 0.1754386, y: 0.5660377}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 42.133587
-    Position: {x: 0.24951267, y: 0.25157234}
+    TimePoint: 73.36607
+    Position: {x: 0.32358673, y: 0.7148847}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 42.524643
-    Position: {x: 0.2982456, y: 0.40880504}
+    TimePoint: 74.12807
+    Position: {x: 0.4766082, y: 0.836478}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 42.915237
-    Position: {x: 0.3294347, y: 0.5953878}
+    TimePoint: 75.63542
+    Position: {x: 0.7612086, y: 0.8134172}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 43.16026
-    Position: {x: 0.36452243, y: 0.7819706}
+    TimePoint: 76.56303
+    Position: {x: 0.7553606, y: 0.4884696}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 43.38104
-    Position: {x: 0.39766082, y: 0.8951782}
+    TimePoint: 76.82806
+    Position: {x: 0.6744639, y: 0.38574424}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 43.675873
-    Position: {x: 0.45224172, y: 0.9685535}
+    TimePoint: 77.73908
+    Position: {x: 0.39863548, y: 0.37526205}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 44.004837
-    Position: {x: 0.579922, y: 0.9790356}
+    TimePoint: 78.451324
+    Position: {x: 0.24269006, y: 0.442348}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 44.331684
-    Position: {x: 0.5808967, y: 0.7777778}
+    TimePoint: 78.799164
+    Position: {x: 0.18031189, y: 0.6079665}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 44.709526
-    Position: {x: 0.582846, y: 0.572327}
+    TimePoint: 79.19669
+    Position: {x: 0.18421052, y: 0.6981132}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 45.083744
-    Position: {x: 0.73781675, y: 0.4129979}
+    TimePoint: 79.52798
+    Position: {x: 0.2777778, y: 0.8155136}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 45.50343
-    Position: {x: 0.831384, y: 0.2851153}
+    TimePoint: 79.94208
+    Position: {x: 0.4337232, y: 0.9475891}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 45.93018
-    Position: {x: 0.86939573, y: 0.6310273}
+    TimePoint: 80.52183
+    Position: {x: 0.71734893, y: 0.8763103}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 46.38081
-    Position: {x: 0.751462, y: 0.8343816}
+    TimePoint: 80.969055
+    Position: {x: 0.788499, y: 0.6624738}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 46.830147
-    Position: {x: 0.70272905, y: 0.932914}
+    TimePoint: 81.30035
+    Position: {x: 0.7777778, y: 0.591195}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 47.14583
-    Position: {x: 0.53606236, y: 0.9496855}
+    TimePoint: 82.211395
+    Position: {x: 0.71929824, y: 0.4486373}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 47.502167
-    Position: {x: 0.3323587, y: 0.9119497}
+    TimePoint: 82.62549
+    Position: {x: 0.65497077, y: 0.3207547}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 47.91495
-    Position: {x: 0.28460038, y: 0.721174}
+    TimePoint: 82.97335
+    Position: {x: 0.4074074, y: 0.36897275}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 48.409695
-    Position: {x: 0.23294348, y: 0.5031447}
+    TimePoint: 83.55312
+    Position: {x: 0.24756335, y: 0.4716981}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 48.802853
-    Position: {x: 0.26900584, y: 0.35849056}
+    TimePoint: 84.14968
+    Position: {x: 0.24074075, y: 0.639413}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 49.207195
-    Position: {x: 0.35867447, y: 0.23060797}
+    TimePoint: 84.97763
+    Position: {x: 0.291423, y: 0.8448637}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 49.56509
-    Position: {x: 0.49415204, y: 0.21802935}
+    TimePoint: 85.45801
+    Position: {x: 0.31676415, y: 0.5618449}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 49.89342
-    Position: {x: 0.6111111, y: 0.4360587}
+    TimePoint: 85.7893
+    Position: {x: 0.33918127, y: 0.4025157}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 50.271652
-    Position: {x: 0.65984404, y: 0.6373166}
+    TimePoint: 86.236534
+    Position: {x: 0.43762183, y: 0.3081761}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 50.47442
-    Position: {x: 0.6939571, y: 0.7966457}
+    TimePoint: 86.79973
+    Position: {x: 0.6734893, y: 0.7002096}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 50.75449
-    Position: {x: 0.7407407, y: 0.9161426}
+    TimePoint: 87.19725
+    Position: {x: 0.7329435, y: 0.8155136}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 51.053406
-    Position: {x: 0.8187134, y: 0.932914}
+    TimePoint: 87.62796
+    Position: {x: 0.81189084, y: 0.7714885}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 51.424576
-    Position: {x: 0.8196881, y: 0.7148847}
+    TimePoint: 88.02548
+    Position: {x: 0.837232, y: 0.5492662}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 51.743053
-    Position: {x: 0.8479532, y: 0.5597484}
+    TimePoint: 88.42302
+    Position: {x: 0.8206628, y: 0.37945494}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 52.102913
-    Position: {x: 0.8810916, y: 0.37945494}
+    TimePoint: 89.10219
+    Position: {x: 0.5, y: 0.572327}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 52.41745
-    Position: {x: 0.7738792, y: 0.3249476}
+    TimePoint: 89.880714
+    Position: {x: 0.3294347, y: 0.7232704}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 52.618942
-    Position: {x: 0.63060427, y: 0.3018868}
+    TimePoint: 90.79174
+    Position: {x: 0.2251462, y: 0.78826}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 52.83212
-    Position: {x: 0.61013645, y: 0.29979035}
+    TimePoint: 91.22241
+    Position: {x: 0.18810916, y: 0.6184486}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 53.18059
-    Position: {x: 0.36062378, y: 0.2976939}
+    TimePoint: 91.537125
+    Position: {x: 0.21052632, y: 0.4947589}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 53.583668
-    Position: {x: 0.2300195, y: 0.3501048}
+    TimePoint: 92.05062
+    Position: {x: 0.22417153, y: 0.32704404}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 53.924076
-    Position: {x: 0.19688109, y: 0.5597484}
+    TimePoint: 92.59727
+    Position: {x: 0.28265107, y: 0.25366876}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 54.287724
-    Position: {x: 0.25438598, y: 0.721174}
+    TimePoint: 93.74016
+    Position: {x: 0.36452243, y: 0.7316562}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 54.82697
-    Position: {x: 0.3840156, y: 0.8867925}
+    TimePoint: 94.15425
+    Position: {x: 0.52534115, y: 0.8469602}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 55.598083
-    Position: {x: 0.7183236, y: 0.932914}
+    TimePoint: 94.651215
+    Position: {x: 0.73976606, y: 0.9559748}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 55.941128
-    Position: {x: 0.74561405, y: 0.7463312}
+    TimePoint: 95.23095
+    Position: {x: 0.8089669, y: 0.7442348}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 56.318203
-    Position: {x: 0.7748538, y: 0.60587}
+    TimePoint: 95.777565
+    Position: {x: 0.82846004, y: 0.5639413}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 56.691086
-    Position: {x: 0.7982456, y: 0.46121594}
+    TimePoint: 96.208244
+    Position: {x: 0.76413256, y: 0.4171908}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 57.113533
-    Position: {x: 0.7846004, y: 0.2851153}
+    TimePoint: 96.85426
+    Position: {x: 0.63645226, y: 0.3899371}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 57.436596
-    Position: {x: 0.6335283, y: 0.28301886}
+    TimePoint: 97.533424
+    Position: {x: 0.65107214, y: 0.5870021}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 57.81634
-    Position: {x: 0.39181286, y: 0.29350105}
+    TimePoint: 98.32852
+    Position: {x: 0.41910332, y: 0.7463312}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 58.160534
-    Position: {x: 0.23684211, y: 0.28301886}
+    TimePoint: 99.20643
+    Position: {x: 0.21734893, y: 0.7127883}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 58.521736
-    Position: {x: 0.16276804, y: 0.5513627}
+    TimePoint: 99.62055
+    Position: {x: 0.23781677, y: 0.5639413}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 58.849754
-    Position: {x: 0.12865497, y: 0.7044025}
+    TimePoint: 100.432205
+    Position: {x: 0.4668616, y: 0.5031447}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 59.1649
-    Position: {x: 0.26900584, y: 0.8909853}
+    TimePoint: 101.343254
+    Position: {x: 0.6968811, y: 0.6163522}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 59.52098
-    Position: {x: 0.40838206, y: 0.9433962}
+    TimePoint: 102.1882
+    Position: {x: 0.73586744, y: 0.7861635}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 60.240086
-    Position: {x: 0.79922026, y: 0.9979036}
+    TimePoint: 102.53587
+    Position: {x: 0.7962963, y: 0.6352201}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 60.61514
-    Position: {x: 0.8352826, y: 0.7568134}
+    TimePoint: 102.83403
+    Position: {x: 0.7651072, y: 0.49056605}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 60.974663
-    Position: {x: 0.8430799, y: 0.6247379}
+    TimePoint: 103.794785
+    Position: {x: 0.7017544, y: 0.35849056}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 61.348583
-    Position: {x: 0.8265107, y: 0.46331236}
+    TimePoint: 104.341385
+    Position: {x: 0.58966863, y: 0.35849056}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 61.71639
-    Position: {x: 0.6296296, y: 0.2893082}
+    TimePoint: 104.72235
+    Position: {x: 0.4883041, y: 0.4025157}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 62.09744
-    Position: {x: 0.4814815, y: 0.22012578}
+    TimePoint: 105.10334
+    Position: {x: 0.27582845, y: 0.5366876}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 62.420418
-    Position: {x: 0.34990254, y: 0.1802935}
+    TimePoint: 105.51746
+    Position: {x: 0.21150097, y: 0.6540881}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 62.786533
-    Position: {x: 0.21832359, y: 0.17819707}
+    TimePoint: 106.14693
+    Position: {x: 0.2202729, y: 0.8050314}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 63.111618
-    Position: {x: 0.13840155, y: 0.19916143}
+    TimePoint: 106.49478
+    Position: {x: 0.2982456, y: 0.8909853}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 63.47168
-    Position: {x: 0.08382066, y: 0.20125785}
+    TimePoint: 106.7598
+    Position: {x: 0.36549708, y: 0.9433962}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 63.864483
-    Position: {x: 0.04191033, y: 0.38155136}
+    TimePoint: 107.77024
+    Position: {x: 0.39181286, y: 0.8280922}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 64.209305
-    Position: {x: 0.058479533, y: 0.5324948}
+    TimePoint: 108.68131
+    Position: {x: 0.2962963, y: 0.5807128}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 64.4909
-    Position: {x: 0.22222222, y: 0.6645702}
+    TimePoint: 109.47641
+    Position: {x: 0.30701753, y: 0.41509435}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 64.899536
-    Position: {x: 0.2748538, y: 0.5681342}
+    TimePoint: 110.40401
+    Position: {x: 0.7758285, y: 0.7526205}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 65.240486
-    Position: {x: 0.34307992, y: 0.44025156}
+    TimePoint: 111.08315
+    Position: {x: 0.81189084, y: 0.5953878}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 65.60286
-    Position: {x: 0.41910332, y: 0.3186583}
+    TimePoint: 111.77886
+    Position: {x: 0.75438595, y: 0.3962264}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 66.00496
-    Position: {x: 0.4502924, y: 0.4591195}
+    TimePoint: 112.39178
+    Position: {x: 0.28070176, y: 0.4654088}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 66.36834
-    Position: {x: 0.5, y: 0.5052411}
+    TimePoint: 113.319405
+    Position: {x: 0.20565303, y: 0.6331237}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 66.74086
-    Position: {x: 0.6072125, y: 0.6037736}
+    TimePoint: 113.89914
+    Position: {x: 0.28557506, y: 0.7735849}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 67.10713
-    Position: {x: 0.668616, y: 0.6645702}
+    TimePoint: 114.52859
+    Position: {x: 0.6354776, y: 0.9412998}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 67.415215
-    Position: {x: 0.77095515, y: 0.7253669}
+    TimePoint: 114.89301
+    Position: {x: 0.72124755, y: 0.8155136}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 67.75554
-    Position: {x: 0.8625731, y: 0.754717}
+    TimePoint: 115.42309
+    Position: {x: 0.7680312, y: 0.6519916}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 68.0818
-    Position: {x: 0.9298246, y: 0.6666667}
+    TimePoint: 116.01941
+    Position: {x: 0.7738792, y: 0.5031447}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 68.49042
-    Position: {x: 0.93957114, y: 0.4129979}
+    TimePoint: 116.78191
+    Position: {x: 0.69493175, y: 0.5073375}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 68.818016
-    Position: {x: 0.80409354, y: 0.32285115}
+    TimePoint: 117.427376
+    Position: {x: 0.56237817, y: 0.7002096}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 69.14996
-    Position: {x: 0.6608187, y: 0.2976939}
+    TimePoint: 118.172806
+    Position: {x: 0.35672516, y: 0.8176101}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 69.520905
-    Position: {x: 0.50877196, y: 0.33962265}
+    TimePoint: 118.83536
+    Position: {x: 0.2563353, y: 0.7085954}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 69.86499
-    Position: {x: 0.36549708, y: 0.35849056}
+    TimePoint: 119.59731
+    Position: {x: 0.22319688, y: 0.5345912}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 70.21252
-    Position: {x: 0.2202729, y: 0.37526205}
+    TimePoint: 120.25987
+    Position: {x: 0.24951267, y: 0.41090146}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 70.59945
-    Position: {x: 0.14814815, y: 0.3731656}
+    TimePoint: 122.34697
+    Position: {x: 0.42300195, y: 0.4234801}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 70.88046
-    Position: {x: 0.13937622, y: 0.38574424}
+    TimePoint: 123.07583
+    Position: {x: 0.6159844, y: 0.6813417}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 71.28343
-    Position: {x: 0.055555556, y: 0.5450734}
+    TimePoint: 123.97029
+    Position: {x: 0.7183236, y: 0.8951782}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 71.62994
-    Position: {x: 0.17251462, y: 0.6582809}
+    TimePoint: 125.21264
+    Position: {x: 0.7719298, y: 0.672956}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 71.95374
-    Position: {x: 0.26900584, y: 0.7023061}
+    TimePoint: 125.85866
+    Position: {x: 0.7719298, y: 0.5324948}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 72.2866
-    Position: {x: 0.36062378, y: 0.7253669}
+    TimePoint: 126.67031
+    Position: {x: 0.7241715, y: 0.36897275}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 72.67745
-    Position: {x: 0.50292397, y: 0.7358491}
+    TimePoint: 127.29975
+    Position: {x: 0.64522415, y: 0.5178197}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 73.0028
-    Position: {x: 0.58674467, y: 0.7484277}
+    TimePoint: 127.68073
+    Position: {x: 0.5214425, y: 0.6708595}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 73.41253
-    Position: {x: 0.66179335, y: 0.7735849}
+    TimePoint: 128.06175
+    Position: {x: 0.34990254, y: 0.8616352}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 73.706406
-    Position: {x: 0.7387914, y: 0.78826}
+    TimePoint: 128.69144
+    Position: {x: 0.2816764, y: 0.6750524}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 74.2084
-    Position: {x: 0.73781675, y: 0.7589099}
+    TimePoint: 129.38742
+    Position: {x: 0.21734893, y: 0.48427674}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 74.52071
-    Position: {x: 0.5516569, y: 0.6855346}
+    TimePoint: 130.03369
+    Position: {x: 0.37134504, y: 0.38155136}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 74.88422
-    Position: {x: 0.43762183, y: 0.6415094}
+    TimePoint: 130.34854
+    Position: {x: 0.4103314, y: 0.5807128}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 75.256004
-    Position: {x: 0.32261208, y: 0.6331237}
+    TimePoint: 130.9451
+    Position: {x: 0.57894737, y: 0.8050314}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 75.59708
-    Position: {x: 0.17641325, y: 0.639413}
+    TimePoint: 131.60794
+    Position: {x: 0.68615985, y: 0.7945493}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 75.9104
-    Position: {x: 0.10331384, y: 0.5828092}
+    TimePoint: 132.3702
+    Position: {x: 0.76608187, y: 0.5681342}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 76.21628
-    Position: {x: 0.12280702, y: 0.4004193}
+    TimePoint: 133.18216
+    Position: {x: 0.7105263, y: 0.3731656}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 76.56578
-    Position: {x: 0.22612086, y: 0.33962265}
+    TimePoint: 133.613
+    Position: {x: 0.54385966, y: 0.32914045}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 76.92694
-    Position: {x: 0.30994153, y: 0.3144654}
+    TimePoint: 134.44156
+    Position: {x: 0.31189084, y: 0.4486373}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 77.3217
-    Position: {x: 0.42982456, y: 0.31027254}
+    TimePoint: 135.22038
+    Position: {x: 0.2797271, y: 0.7044025}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 77.694115
-    Position: {x: 0.51072127, y: 0.4171908}
+    TimePoint: 135.96606
+    Position: {x: 0.44249514, y: 0.8238994}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 78.00664
-    Position: {x: 0.5984405, y: 0.5345912}
+    TimePoint: 136.49634
+    Position: {x: 0.68421054, y: 0.8595388}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 78.22136
-    Position: {x: 0.67836255, y: 0.6268344}
+    TimePoint: 136.84433
+    Position: {x: 0.72319686, y: 0.7002096}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 78.50926
-    Position: {x: 0.8226121, y: 0.7526205}
+    TimePoint: 137.29173
+    Position: {x: 0.7417154, y: 0.4947589}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 78.73007
-    Position: {x: 0.85087717, y: 0.5932914}
+    TimePoint: 138.12029
+    Position: {x: 0.5964912, y: 0.4486373}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 79.004196
-    Position: {x: 0.83820665, y: 0.45702305}
+    TimePoint: 138.74998
+    Position: {x: 0.59356725, y: 0.3375262}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 79.25921
-    Position: {x: 0.83235866, y: 0.31236896}
+    TimePoint: 139.52881
+    Position: {x: 0.6832359, y: 0.5345912}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 79.67734
-    Position: {x: 0.76413256, y: 0.1341719}
+    TimePoint: 140.58936
+    Position: {x: 0.6744639, y: 0.6834382}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 79.8688
-    Position: {x: 0.5740741, y: 0.19287212}
+    TimePoint: 141.03676
+    Position: {x: 0.5760234, y: 0.7861635}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 80.11566
-    Position: {x: 0.43469787, y: 0.26415095}
+    TimePoint: 141.73273
+    Position: {x: 0.32553607, y: 0.7966457}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 80.44237
-    Position: {x: 0.27192983, y: 0.46331236}
+    TimePoint: 142.31271
+    Position: {x: 0.18031189, y: 0.5890985}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 80.833954
-    Position: {x: 0.14230019, y: 0.6352201}
+    TimePoint: 142.90926
+    Position: {x: 0.22417153, y: 0.4549266}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 81.34242
-    Position: {x: 0.12768032, y: 0.6268344}
+    TimePoint: 143.29039
+    Position: {x: 0.3323587, y: 0.36268345}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 81.67049
-    Position: {x: 0.06725146, y: 0.5870021}
+    TimePoint: 143.72124
+    Position: {x: 0.3723197, y: 0.5786164}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 82.03042
-    Position: {x: 0.05068226, y: 0.46121594}
+    TimePoint: 144.7652
+    Position: {x: 0.57894737, y: 0.8637317}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 82.49417
-    Position: {x: 0.19980507, y: 0.20125785}
+    TimePoint: 145.19604
+    Position: {x: 0.7387914, y: 0.8888889}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 82.88136
-    Position: {x: 0.39766082, y: 0.3501048}
+    TimePoint: 146.1903
+    Position: {x: 0.76413256, y: 0.5786164}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 83.25954
-    Position: {x: 0.5555556, y: 0.4549266}
+    TimePoint: 147.21767
+    Position: {x: 0.6910331, y: 0.40880504}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 83.53605
-    Position: {x: 0.62865496, y: 0.5534591}
+    TimePoint: 147.9468
+    Position: {x: 0.2962963, y: 0.39832285}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 83.75388
-    Position: {x: 0.74366474, y: 0.6708595}
+    TimePoint: 148.75874
+    Position: {x: 0.22904484, y: 0.7023061}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 84.02084
-    Position: {x: 0.8703704, y: 0.7903564}
+    TimePoint: 149.37187
+    Position: {x: 0.28362572, y: 0.8301887}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 84.38482
-    Position: {x: 0.9054581, y: 0.8574423}
+    TimePoint: 150.05127
+    Position: {x: 0.27875245, y: 0.557652}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 84.8174
-    Position: {x: 0.72319686, y: 0.9727463}
+    TimePoint: 150.38269
+    Position: {x: 0.30214426, y: 0.4067086}
     ExtraParameter: 0
   - ClickType: 0
-    TimePoint: 85.09902
-    Position: {x: 0.59161794, y: 0.8888889}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 85.474525
-    Position: {x: 0.3723197, y: 0.8176101}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 85.80185
-    Position: {x: 0.25536063, y: 0.7316562}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 86.181496
-    Position: {x: 0.20662768, y: 0.5366876}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 86.52094
-    Position: {x: 0.26900584, y: 0.4171908}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 86.80623
-    Position: {x: 0.32748538, y: 0.31656185}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 87.13175
-    Position: {x: 0.537037, y: 0.38574424}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 87.33749
-    Position: {x: 0.6998051, y: 0.45073375}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 87.72815
-    Position: {x: 0.8128655, y: 0.6184486}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 87.85852
-    Position: {x: 0.8128655, y: 0.6184486}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 88.14753
-    Position: {x: 0.8031189, y: 0.8218029}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 88.47281
-    Position: {x: 0.794347, y: 0.8930818}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 88.84364
-    Position: {x: 0.5126706, y: 0.9245283}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 89.19462
-    Position: {x: 0.32066277, y: 0.9245283}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 89.56603
-    Position: {x: 0.22709551, y: 0.8113208}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 89.959564
-    Position: {x: 0.19980507, y: 0.6708595}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 90.31645
-    Position: {x: 0.24366471, y: 0.5660377}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 90.60309
-    Position: {x: 0.29044834, y: 0.46331236}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 90.850494
-    Position: {x: 0.31578946, y: 0.3899371}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 91.067856
-    Position: {x: 0.37329435, y: 0.6100629}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 91.26925
-    Position: {x: 0.4385965, y: 0.6603774}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 91.58283
-    Position: {x: 0.537037, y: 0.40461215}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 91.953674
-    Position: {x: 0.58382064, y: 0.7421384}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 92.27749
-    Position: {x: 0.80409354, y: 0.8385744}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 92.50422
-    Position: {x: 0.8274854, y: 0.8553459}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 92.94298
-    Position: {x: 0.8460039, y: 0.4654088}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 93.35052
-    Position: {x: 0.7758285, y: 0.2955975}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 93.63519
-    Position: {x: 0.5643275, y: 0.32704404}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 94.003456
-    Position: {x: 0.49122807, y: 0.7610063}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 94.34883
-    Position: {x: 0.38791424, y: 0.7861635}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 94.738846
-    Position: {x: 0.2134503, y: 0.8322851}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 95.01979
-    Position: {x: 0.17446394, y: 0.8448637}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 95.25336
-    Position: {x: 0.19785576, y: 0.60587}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 95.60337
-    Position: {x: 0.23879142, y: 0.31027254}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 95.88401
-    Position: {x: 0.26803118, y: 0.2494759}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 96.19784
-    Position: {x: 0.41325536, y: 0.39832285}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 96.49489
-    Position: {x: 0.4980507, y: 0.5220126}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 96.84888
-    Position: {x: 0.61208576, y: 0.6813417}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 97.09932
-    Position: {x: 0.68421054, y: 0.7903564}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 97.335
-    Position: {x: 0.74561405, y: 0.9119497}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 97.59878
-    Position: {x: 0.77875245, y: 0.9496855}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 97.96235
-    Position: {x: 0.8333333, y: 0.6079665}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 98.30415
-    Position: {x: 0.7534113, y: 0.4989518}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 98.64794
-    Position: {x: 0.66959065, y: 0.3899371}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 99.088684
-    Position: {x: 0.6150097, y: 0.28092244}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 99.54054
-    Position: {x: 0.4054581, y: 0.5974843}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 99.97382
-    Position: {x: 0.31676415, y: 0.6561845}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 100.349625
-    Position: {x: 0.20662768, y: 0.6373166}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 100.58787
-    Position: {x: 0.10233918, y: 0.5262055}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 101.037415
-    Position: {x: 0.09844054, y: 0.33333334}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 101.364
-    Position: {x: 0.2134503, y: 0.1865828}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 101.76381
-    Position: {x: 0.45711502, y: 0.3375262}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 102.16135
-    Position: {x: 0.5847953, y: 0.46750525}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 102.537384
-    Position: {x: 0.6666667, y: 0.7295597}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 102.75427
-    Position: {x: 0.7651072, y: 0.6037736}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 102.97459
-    Position: {x: 0.8255361, y: 0.524109}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 103.37969
-    Position: {x: 0.7962963, y: 0.2683438}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 103.76687
-    Position: {x: 0.65302145, y: 0.15513627}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 104.155716
-    Position: {x: 0.4337232, y: 0.4234801}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 104.41147
-    Position: {x: 0.39376217, y: 0.6352201}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 104.68989
-    Position: {x: 0.34210527, y: 0.802935}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 104.99594
-    Position: {x: 0.27387914, y: 0.8301887}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 105.34846
-    Position: {x: 0.2582846, y: 0.6142558}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 105.66576
-    Position: {x: 0.3079922, y: 0.4486373}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 106.01435
-    Position: {x: 0.35867447, y: 0.3249476}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 106.319466
-    Position: {x: 0.5165692, y: 0.4297694}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 106.50957
-    Position: {x: 0.5497076, y: 0.5660377}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 106.741776
-    Position: {x: 0.60331386, y: 0.7966457}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 107.18183
-    Position: {x: 0.751462, y: 0.9350105}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 107.56882
-    Position: {x: 0.8479532, y: 0.8909853}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 107.83865
-    Position: {x: 0.831384, y: 0.7253669}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 108.159615
-    Position: {x: 0.76608187, y: 0.5932914}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 108.438896
-    Position: {x: 0.7241715, y: 0.4591195}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 108.63123
-    Position: {x: 0.7105263, y: 0.40461215}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 109.00675
-    Position: {x: 0.61208576, y: 0.3417191}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 109.55343
-    Position: {x: 0.37816763, y: 0.6205451}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 109.87678
-    Position: {x: 0.3294347, y: 0.884696}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 110.197266
-    Position: {x: 0.20955166, y: 0.9140461}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 110.52281
-    Position: {x: 0.19688109, y: 0.7044025}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 110.741234
-    Position: {x: 0.19590643, y: 0.5870021}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 111.12044
-    Position: {x: 0.32163742, y: 0.4004193}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 111.426636
-    Position: {x: 0.48245615, y: 0.38155136}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 111.78864
-    Position: {x: 0.537037, y: 0.6855346}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 112.03508
-    Position: {x: 0.6013645, y: 0.8134172}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 112.3356
-    Position: {x: 0.72319686, y: 0.9119497}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 112.66376
-    Position: {x: 0.78752434, y: 0.8071279}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 112.92634
-    Position: {x: 0.76413256, y: 0.6142558}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 113.17699
-    Position: {x: 0.56530213, y: 0.5639413}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 113.401344
-    Position: {x: 0.42787525, y: 0.524109}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 113.60381
-    Position: {x: 0.31384015, y: 0.4591195}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 113.94433
-    Position: {x: 0.2037037, y: 0.3375262}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 114.15663
-    Position: {x: 0.21247563, y: 0.25995806}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 114.37118
-    Position: {x: 0.5614035, y: 0.2746331}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 114.66648
-    Position: {x: 0.70662767, y: 0.4654088}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 114.879295
-    Position: {x: 0.8060429, y: 0.6708595}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 115.09895
-    Position: {x: 0.8265107, y: 0.7442348}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 115.38504
-    Position: {x: 0.81384015, y: 0.8679245}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 115.79131
-    Position: {x: 0.588694, y: 0.9454927}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 116.19814
-    Position: {x: 0.5038986, y: 0.9371069}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 116.67483
-    Position: {x: 0.33528265, y: 0.7735849}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 117.134735
-    Position: {x: 0.30214426, y: 0.5618449}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 118.053055
-    Position: {x: 0.40155944, y: 0.3018868}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 118.38971
-    Position: {x: 0.66569203, y: 0.3249476}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 118.83608
-    Position: {x: 0.7631579, y: 0.5681342}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 119.17929
-    Position: {x: 0.80701756, y: 0.7274633}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 119.55725
-    Position: {x: 0.8479532, y: 0.9035639}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 119.88145
-    Position: {x: 0.920078, y: 0.7463312}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 120.24011
-    Position: {x: 0.917154, y: 0.4989518}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 120.58447
-    Position: {x: 0.7777778, y: 0.3668763}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 121.006744
-    Position: {x: 0.5068226, y: 0.6163522}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 121.2927
-    Position: {x: 0.43567252, y: 0.8637317}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 121.67712
-    Position: {x: 0.33333334, y: 0.9245283}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 121.98639
-    Position: {x: 0.20760234, y: 0.8637317}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 122.337975
-    Position: {x: 0.14424951, y: 0.6792453}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 122.69768
-    Position: {x: 0.25438598, y: 0.48427674}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 123.05755
-    Position: {x: 0.32261208, y: 0.3501048}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 123.397095
-    Position: {x: 0.41910332, y: 0.23480085}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 123.74897
-    Position: {x: 0.44444445, y: 0.5199161}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 124.1162
-    Position: {x: 0.54385966, y: 0.6645702}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 124.46371
-    Position: {x: 0.6481481, y: 0.7672956}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 124.86004
-    Position: {x: 0.7495127, y: 0.8951782}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 125.198044
-    Position: {x: 0.85087717, y: 0.7023061}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 125.53485
-    Position: {x: 0.86939573, y: 0.5220126}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 125.8946
-    Position: {x: 0.7417154, y: 0.3773585}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 126.24164
-    Position: {x: 0.55847955, y: 0.22431865}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 126.65019
-    Position: {x: 0.34405458, y: 0.29979035}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 127.00558
-    Position: {x: 0.20760234, y: 0.3312369}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 127.32281
-    Position: {x: 0.15009746, y: 0.7106918}
-    ExtraParameter: 0
-  - ClickType: 0
-    TimePoint: 127.66296
-    Position: {x: 0.48050684, y: 0.9287212}
+    TimePoint: 150.81354
+    Position: {x: 0.39668617, y: 0.30398324}
     ExtraParameter: 0
